@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/malamPionet/static/css/main.3ddcfa32.css",
+    "main.js": "/malamPionet/static/js/main.d71b4a32.js",
+    "static/js/453.46af41b6.chunk.js": "/malamPionet/static/js/453.46af41b6.chunk.js",
+    "static/media/force.ico": "/malamPionet/static/media/force.39562ddb613e0f18d687.ico",
+    "static/media/google1Logo.svg": "/malamPionet/static/media/google1Logo.be9e6dcad859167418452d286726856f.svg",
+    "index.html": "/malamPionet/index.html",
+    "main.3ddcfa32.css.map": "/malamPionet/static/css/main.3ddcfa32.css.map",
+    "main.d71b4a32.js.map": "/malamPionet/static/js/main.d71b4a32.js.map",
+    "453.46af41b6.chunk.js.map": "/malamPionet/static/js/453.46af41b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ddcfa32.css",
+    "static/js/main.d71b4a32.js"
+  ]
+}
